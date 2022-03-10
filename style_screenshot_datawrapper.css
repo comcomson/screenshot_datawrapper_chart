@@ -4,16 +4,4 @@
   zoom:1.5 !important;
 }
 
-@media screen and (max-width: 320px) { 
-
-  padding-top:20px;
-  border: 30px solid #fff;
-  zoom:1.5 !important;
-
-}
-
-@media screen and (max-width: 800px) { 
-  padding-top:20px;
-  border: 30px solid #fff;
-  zoom:1.5 !important;
-}
+body {min-width:300px;}
