@@ -1,7 +1,10 @@
 .dw-chart{
   padding-top: 20px;
   border: 30px solid #fff;
-  zoom:125%;
   max-height: 100%;
   max-width: 100%;
+}
+
+body {
+  zoom:125%;
 }
