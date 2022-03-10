@@ -2,6 +2,6 @@
   padding-top:20px;
   border: 30px solid #fff;
   zoom:1.5 !important;
+  max-width: 608px;
 }
 
-body {min-width:300px;}
