@@ -1,6 +1,7 @@
 .dw-chart{
+  float:right;
   padding-top:50px;
-  padding-left:400px;
-  padding-right:40px;
+  padding-left:40px;
+  padding-right:40px !important;
   padding-bottom:20px;
 }
