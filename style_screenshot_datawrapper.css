@@ -6,3 +6,7 @@
   max-height: 1080px !important;
 }
 
+html, body{
+  max-width: 608px;
+  max-height: 1080px !important;
+}
